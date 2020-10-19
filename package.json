@@ -1,0 +1,15 @@
+{
+  "name": "google_sheets_bot",
+  "version": "1.0.0",
+  "description": "A bot to update Google Sheets using service accounts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tarun Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "googleapis": "^61.0.0",
+    "node-fetch": "^2.6.1"
+  }
+}
